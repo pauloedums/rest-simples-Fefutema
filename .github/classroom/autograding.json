@@ -3,7 +3,7 @@
     {
       "name": "onlyOneTest",
       "setup": "",
-      "run": "mvvn test",
+      "run": "mvn test",
       "input": "",
       "output": "",
       "comparison": "included",
